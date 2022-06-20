@@ -1,0 +1,30 @@
+ {
+  "name": "Vzray",
+  "description": "fhygu",
+  "keywords": [    
+     "tufuy8-546fvh4hyiu478jhg7"
+  ],
+  "env": {
+    "PROTOCOL": {
+      "description": "minipvmessorvless",
+      "value": "vmess",
+      "required": true
+    },
+    "UUID": {
+      "description": "uID",
+      "value": "",
+      "required": false
+    },
+    "WS_PATH": {
+      "description": "websocketlj",
+      "value": "/ray",
+      "required": true
+    }
+  },
+  "website": "https://github.com/dihoih/3rax",
+  "repository": "https://github.com/dihoih/3rax",
+  "stack": "container",
+  "features": [
+    "runtime-dyno-metadata"
+  ]
+}
